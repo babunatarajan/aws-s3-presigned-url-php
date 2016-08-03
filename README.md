@@ -1,6 +1,6 @@
 Prerequisites:
 
-<p>php5.5</p>
-<p>curl</p>
-<p>AWS credentials with S3 access</p>
+<l>php5.5</l>
+<l>curl</l>
+<l>AWS credentials with S3 access</l>
  
